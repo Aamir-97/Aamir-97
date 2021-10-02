@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning an Information Systems degree programme at University of Colombo School of Computing. Sri lanka.
 - 💞️ I’m looking to collaborate on project like free and open source projects and University Projects.
 - 📫 You can reach on me by email: msaamirali123@gmail.com
+- 🧑‍💻 Working as an intern employee at Kingslake Solutions.
 
 <!---
 Aamir-97/Aamir-97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
