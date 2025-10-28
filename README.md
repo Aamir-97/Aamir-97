@@ -1,4 +1,4 @@
-👋 Hi, I’m Mohamed Shafeek Aamir ali @Aamir-97
+👋 Hi Welcome to my Profile, I'm Aamir Ali.
 🧑‍💻 Working as a Software Engineer @ Anywhere.
 📖 Graduate from the University of Colombo, in Information Systems. Pursuing a Master of Computer Science.
 💻 I’m interested in a Web application and Mobile application development.
