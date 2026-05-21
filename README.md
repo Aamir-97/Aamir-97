@@ -1,7 +1,7 @@
 👋 Hi Welcome to my Profile, I'm Aamir Ali.
-🧑‍💻 Working as a Software Engineer @ Anywhere.
+🧑‍💻 Working as a Software Engineer @ Pandyt.
 📖 Graduate from the University of Colombo, in Information Systems. Pursuing a Master of Computer Science.
-💻 I’m interested in a Web application and Mobile application development.
+💻 I’m interested in a Web and Mobile applications development gettig paths through DevOps.
   Looking to explore the world with end of oppertunity and welcome for startups.
 💞️ Love in work life balance.
 📫 You can reach me by email: msaamirali123@gmail.com or Tel: +94 76 892 12 88
