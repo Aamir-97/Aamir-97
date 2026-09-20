@@ -73,58 +73,6 @@ Building scalable software, crafting exceptional user experiences, and turning i
 
 ---
 
-# 💼 Professional Journey
-
-```text
-🎓 Master of Computer Science
-University of Colombo School of Computing
-
-           │
-           ▼
-
-💼 Software Engineer
-Kingslake Engineering Systems
-
-• Angular Enterprise Applications
-• Flutter Development
-• HRM & TMS Solutions
-• REST API Integration
-
-           │
-           ▼
-
-💼 Software Engineer
-Pandyt
-
-• Flutter Development
-• Next.js Frontend
-• Next.js Backend
-• Software Architecture
-• Mobile Architecture
-• Firebase
-• CI/CD Automation
-```
-
----
-
-# 🌟 Featured Projects
-
-> Replace these repository names with your own public repositories.
-
-<p align="center">
-
-<a href="https://github.com/Aamir-97/flutter-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aamir-97&repo=flutter-project&theme=github_dark"/>
-</a>
-
-<a href="https://github.com/Aamir-97/nextjs-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aamir-97&repo=nextjs-project&theme=github_dark"/>
-</a>
-
-</p>
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
