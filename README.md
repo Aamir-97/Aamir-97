@@ -12,9 +12,7 @@ Building scalable software, crafting exceptional user experiences, and turning i
 <a href="https://github.com/Aamir-97">
 <img src="https://img.shields.io/github/followers/Aamir-97?style=for-the-badge&logo=github"/>
 </a>
-
 <img src="https://komarev.com/ghpvc/?username=Aamir-97&style=for-the-badge"/>
-
 </p>
 
 </div>
@@ -35,58 +33,29 @@ Building scalable software, crafting exceptional user experiences, and turning i
 
 # 🛠 Tech Stack
 
-### 📱 Mobile
+| **📱 Mobile** | **🌐 Frontend** |
+|--------------|----------------|
+| <img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/> | <img src="https://skillicons.dev/icons?i=nextjs,react,angular,typescript,javascript,html,css"/> |
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
-</p>
+| **⚙️ Backend** | **🗄 Database** |
+|---------------|----------------|
+| <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/> | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/> |
 
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,angular,typescript,javascript,html,css"/>
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,firebase,gcp,nginx"/>
-</p>
-
-### 🧰 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,xcode,postman,figma"/>
-</p>
+| **☁️ Cloud & DevOps** | **🧰 Tools** |
+|----------------------|-------------|
+| <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,firebase,gcp,nginx"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,xcode,postman,figma"/> |
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aamir-97&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aamir-97&layout=compact&theme=github_dark&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Aamir-97&theme=github-dark&hide_border=true"/>
-
 </p>
 
 ---
@@ -94,7 +63,6 @@ Building scalable software, crafting exceptional user experiences, and turning i
 # 📫 Let's Connect
 
 <p>
-
 <a href="https://github.com/Aamir-97">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -103,14 +71,13 @@ Building scalable software, crafting exceptional user experiences, and turning i
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="[https://YOUR_PORTFOLIO_WEBSITE](https://aamir-97.github.io/my-portfolio/)">
+<a href="https://aamir-97.github.io/my-portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="mailto:msaamirali123@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 ---
