@@ -23,79 +23,13 @@ Building scalable software, crafting exceptional user experiences, and turning i
 
 # 👨‍💻 About Me
 
-```dart
-class AamirAli {
-  final role = "Software Engineer";
-
-  final currentCompany = "Pandyt";
-
-  final currentFocus = [
-    "Flutter",
-    "Next.js",
-    "Software Architecture",
-    "Mobile Architecture",
-    "CI/CD Automation"
-  ];
-
-  final previousExperience = [
-    "Angular Enterprise Development",
-    "Flutter Development",
-    "REST API Integration"
-  ];
-
-  final interests = [
-    "Scalable Systems",
-    "Clean Architecture",
-    "Performance Engineering",
-    "Developer Experience"
-  ];
-
-  String motto() =>
-      "Build software that is scalable, maintainable and enjoyable to use.";
-}
-```
-
----
-
-# 🚀 What I Do
-
-- 📱 Build high-performance cross-platform mobile applications with **Flutter**
-- 🌐 Develop modern full-stack web applications using **Next.js** (Frontend & Backend)
-- 🅰️ Previously developed enterprise applications using **Angular**
-- 🏗 Design scalable software & mobile architectures
-- ⚡ Build CI/CD pipelines and automate application releases
-- 🔗 Integrate REST APIs, Firebase and third-party services
-- 📊 Improve application performance and developer experience
-- 🤝 Collaborate with cross-functional teams to deliver production-ready software
-
----
-
-# 💼 Professional Experience
-
-## Software Engineer • Pandyt
-
-- Flutter Mobile Application Development
-- Next.js Frontend Development
-- Next.js Backend Development
-- Software Architecture
-- Mobile Architecture
-- REST API Design & Integration
-- Firebase Ecosystem
-- CI/CD Automation
-- Release Management
-- Performance Optimization
-
----
-
-## Software Engineer • Kingslake Engineering Systems
-
-- Enterprise Web Application Development using Angular
-- Flutter Mobile Development
-- HRM Solutions
-- Transport Management Systems
-- Garment Industry Software Solutions
-- REST API Integration
-- Feature Development & System Maintenance
+- 💼 Software Engineer with experience in **mobile**, **web**, and **full-stack** development.
+- 📱 Building cross-platform applications using **Flutter**.
+- 🌐 Developing frontend and backend applications with **Next.js**.
+- 🅰️ Previously developed enterprise applications using **Angular**.
+- 🏗 Passionate about **Software Architecture**, **Mobile Architecture**, and scalable system design.
+- ⚡ Experienced in **CI/CD automation**, release management, and cloud integrations.
+- 🚀 Always learning new technologies and building solutions that are clean, maintainable, and user-focused.
 
 ---
 
@@ -136,23 +70,6 @@ class AamirAli {
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,xcode,postman,figma"/>
 </p>
-
----
-
-# 🏆 Areas of Expertise
-
-- Software Architecture
-- Mobile Architecture
-- Flutter Development
-- Next.js Development
-- Angular Development
-- REST API Integration
-- Firebase Services
-- CI/CD Automation
-- Clean Architecture
-- Performance Optimization
-- Cross-platform Mobile Development
-- Release Management
 
 ---
 
@@ -243,27 +160,6 @@ Pandyt
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aamir-97&theme=github-dark&hide_border=true"/>
 
 </p>
-
----
-
-# 🌱 Currently Exploring
-
-- Enterprise Flutter Architecture
-- Advanced Next.js Full-stack Development
-- Cloud Native Applications
-- Distributed Systems
-- AI-assisted Development
-- Performance Engineering
-
----
-
-# 🎯 Current Focus
-
-- 🚀 Building scalable Flutter applications
-- 🌐 Developing full-stack applications with Next.js
-- 🏗 Designing maintainable software architectures
-- ⚡ Automating build and release pipelines
-- 📈 Improving application performance and user experience
 
 ---
 
